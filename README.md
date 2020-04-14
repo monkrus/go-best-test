@@ -9,12 +9,12 @@
 2. Interesting testing-related packages : `testing`, `testing/quick`, `testing/iotest` and `net/http/httptest `
 
 3. Other projects 
-   (github.com/stretchcom/testif0 (assertions),  
-   [github.com/onsi/ginkgo] (BDD), 
-   [goconvey.com] (visual results in the browser),
-   [github.com/gavv/httpexpect] (end-to-end testing, e.g. RestAPI), 
-   [code.google.com/p/gomock] (injecting mocks into your tests), 
-   [github.com/DATA-DOG/go-sqlmock] (DB testing)
+   github.com/stretchcom/testif (assertions),  
+   github.com/onsi/ginkgo (BDD), 
+   goconvey.com (visual results in the browser),
+   github.com/gavv/httpexpect (end-to-end testing, e.g. RestAPI), 
+   code.google.com/p/gomock (injecting mocks into your tests), 
+   github.com/DATA-DOG/go-sqlmock (DB testing)
 
 # Test creating rules
 
