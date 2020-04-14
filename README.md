@@ -9,7 +9,7 @@
 2. Interesting testing-related packages : `testing`, `testing/quick`, `testing/iotest` and `net/http/httptest `
 
 3. Other projects 
-   github.com/stretchcom/testif (assertions),  
+  (assertions)[github.com/stretchcom/testif],  
    github.com/onsi/ginkgo (BDD), 
    goconvey.com (visual results in the browser),
    github.com/gavv/httpexpect (end-to-end testing, e.g. RestAPI), 
